@@ -1,0 +1,26 @@
+#title {
+  background-color: #ffb3b3;
+  font-family: 'Quicksand';
+  color: white;
+  height: auto;
+  width: auto;
+}
+
+.container-fluid {
+  padding: 3% 5% 5%;
+
+}
+
+.ARview {
+  width: 781px;
+  height: 781px;
+}
+
+.frame {
+  height: 100%;
+  width: 100%;
+}
+
+iframe{
+  border: 0px;
+}
